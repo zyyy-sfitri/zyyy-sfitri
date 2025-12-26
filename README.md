@@ -19,16 +19,6 @@
 
 <hr>
 
-
-<h1 align="center">🏰 Zyy's Hogwarts Portal</h1>
-
-<p align="center">
-<a href="https://zyyy-sfitri.github.io/my-github-profile/">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280">
-</a>
-</p>
-
-
 <p align="center"><b>"RAVENCLAW!"</b></p>
 
 <hr>
