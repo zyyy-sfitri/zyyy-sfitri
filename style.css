@@ -1,0 +1,45 @@
+body{
+  margin:0;
+  font-family: 'Segoe UI', sans-serif;
+  background:#0c0f24;
+  color:white;
+  text-align:center;
+}
+
+.hero{
+  padding:80px 20px;
+  background:url("https://images.unsplash.com/photography-of-castle-1529101091764") center/cover;
+}
+
+.navbar{
+  background:#111;
+  padding:15px;
+}
+
+.navbar a{
+  color:#d4af37;
+  margin:0 20px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+.house{
+  padding:60px 20px;
+}
+
+.house img{
+  width:260px;
+  border-radius:15px;
+  box-shadow:0 0 20px rgba(212,175,55,.6);
+}
+
+.gryffindor{color:#ff4d4d;}
+.hufflepuff{color:#ffd633;}
+.ravenclaw{color:#6fa8dc;}
+.slytherin{color:#6aff8f;}
+
+footer{
+  padding:30px;
+  background:#000;
+  color:#d4af37;
+}

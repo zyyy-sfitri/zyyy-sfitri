@@ -1,78 +1,76 @@
-<h1 align="center">🌙 Welcome to My GitHub Universe 🌙</h1>
+<h1 align="center">🦉 Zyy – Hogwarts Student Profile 🦉</h1>
+<p align="center"><i>"Hogwarts will always be there to welcome you home."</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7F3CE0&center=true&vCenter=true&width=500&lines=Hi+I'm+Zyy;Informatics+Student;Future+Data+Scientist;Welcome+to+my+GitHub!" />
-</p>
-
----
-
 
 <hr>
 
-<h2 align="center">🎀 Play My Pink Bunny Game 🎀</h2>
-<p align="center">A cute pastel mini game I made myself 🐰</p>
+<h2 align="center">📜 Wizard Identity</h2>
+
+<table align="center">
+<tr><td>Name</td><td>Zyy</td></tr>
+<tr><td>House</td><td>Ravenclaw 💙</td></tr>
+<tr><td>Major</td><td>Informatics Engineering</td></tr>
+<tr><td>Wand</td><td>Cherry wood, Phoenix feather</td></tr>
+<tr><td>Patronus</td><td>White Cat 🐱</td></tr>
+</table>
+
+<hr>
+
+
+<h1 align="center">🏰 Zyy's Hogwarts Portal</h1>
 
 <p align="center">
-<a href="https://zyyy-sfitri.github.io/game" target="_blank">
-<img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="260"/>
+<a href="https://zyyy-sfitri.github.io/my-github-profile/">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280">
 </a>
 </p>
 
-<p align="center"><i>Click the bunny portal to play ✨</i></p>
 
+<p align="center"><b>"RAVENCLAW!"</b></p>
 
+<hr>
 
-## About Me
+<h2 align="center">📖 Spellbook Mini Game</h2>
+<p align="center"><i>Click and reveal your fate ✨</i></p>
 
-Saya **Enzy Madona Ika Safitri**, mahasiswa Teknik Informatika.
+<table align="center">
+<tr>
+<td><details><summary>📜 Alohomora</summary>You unlocked Secret Knowledge</details></td>
+<td><details><summary>🔥 Incendio</summary>You unlocked Fire Power</details></td>
+<td><details><summary>✨ Lumos</summary>You unlocked Wisdom</details></td>
+<td><details><summary>🌙 Expecto Patronum</summary>Your Patronus is a White Cat 🐱</details></td>
+</tr>
+</table>
 
----
+<hr>
 
-## Tech Stack
+<h2 align="center">🪄 Magical Coding Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,js,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,js,github,vscode" />
 </p>
 
----
+<hr>
 
-## My Projects
-
-| Project | Description |
-|--------|------------|
-| Bansosku | Sistem informasi bantuan sosial |
-
----
-
-## GitHub Stats
-
-
+<h2 align="center">🏰 Wizarding Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyyy-sfitri&theme=tokyonight&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=zyyy-sfitri&theme=midnight-purple&hide_border=true">
 </p>
 
+<hr>
 
----
-
-## Fun Stuff
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
-</p>
-
----
-
-
+<h2 align="center">🌌 Daily Hogwarts Vibes</h2>
 
 <p align="center">
-  <i>“Consistency beats talent.”</i>
+<img src="https://media.giphy.com/media/3o6ZsTV7mtb7hI5xj2/giphy.gif" width="280">
 </p>
 
 <p align="center">
-  ✨ Thanks for visiting ✨
+<i>“Wands ready. Coffee prepared. Bugs beware.”</i>
 </p>
+
+<p align="center">🪄 Mischief Managed 🪄</p>
