@@ -7,18 +7,6 @@
 
 <hr>
 
-<h2 align="center">📜 Wizard Identity</h2>
-
-<table align="center">
-<tr><td>Name</td><td>Zyy</td></tr>
-<tr><td>House</td><td>Ravenclaw 💙</td></tr>
-<tr><td>Major</td><td>Informatics Engineering</td></tr>
-<tr><td>Wand</td><td>Cherry wood, Phoenix feather</td></tr>
-<tr><td>Patronus</td><td>White Cat 🐱</td></tr>
-</table>
-
-<hr>
-
 <p align="center"><b>"RAVENCLAW!"</b></p>
 
 <hr>
