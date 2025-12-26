@@ -48,7 +48,7 @@
 <h2 align="center">🏰 Wizarding Stats</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=zyyy-sfitri&theme=midnight-purple&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyyy-sfitri&layout=compact&theme=midnight-purple&hide_border=true">
 </p>
 
 <hr>
