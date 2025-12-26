@@ -2,7 +2,7 @@
 <p align="center"><i>"Hogwarts will always be there to welcome you home."</i></p>
 
 
-![Enzy Madona](img/profile.png)
+![Enzy Madona Ika Safitri](img/profile.png)
 
 
 <hr>
