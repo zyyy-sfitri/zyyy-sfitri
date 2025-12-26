@@ -1,9 +1,9 @@
 <h1 align="center">🦉 Zyy – Hogwarts Student Profile 🦉</h1>
 <p align="center"><i>"Hogwarts will always be there to welcome you home."</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280">
-</p>
+
+![Enzy Madona](img/profile.png)
+
 
 <hr>
 
