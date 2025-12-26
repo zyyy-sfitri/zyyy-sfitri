@@ -45,20 +45,6 @@
 
 <hr>
 
-<h2 align="center">🏰 Wizarding Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyyy-sfitri&layout=compact&theme=midnight-purple&hide_border=true">
-</p>
-
-<hr>
-
-<h2 align="center">🌌 Daily Hogwarts Vibes</h2>
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o6ZsTV7mtb7hI5xj2/giphy.gif" width="280">
-</p>
-
 <p align="center">
 <i>“Wands ready. Coffee prepared. Bugs beware.”</i>
 </p>
