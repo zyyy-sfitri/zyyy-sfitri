@@ -7,7 +7,7 @@
 
 <hr>
 
-<p align="center"><b>"RAVENCLAW!"</b></p>
+<p align="center"><b>"Hufflepuff!"</b></p>
 
 <hr>
 
